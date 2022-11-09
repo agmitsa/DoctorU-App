@@ -1,0 +1,95 @@
+body {
+		background-image:url("../images/back.jpg");
+		background-repeat: repeat;
+		background-position: center;
+		background-attachment: fixed;
+		background-size: 100%;
+}
+form {
+	margin-top:200px;
+}
+
+}
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 100px;
+	<img src="images/doctor image.png" alt="member1 icon">
+}
+footer {
+	background-color: LightSteelBlue ;
+	color: black;
+	padding: 0px 0;
+	position: fixed;
+	
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 30px;
+}
+
+.row{
+
+
+h2{
+	color: black;
+		
+}
+
+th {
+    background-color:LightPink ; 
+    color: black;
+}
+td {
+    background-color: white; 
+    color: black;
+}
+h1{
+	 color: white;
+	 text-align: center;
+	 font-size:500%;
+}
+p{
+	color: white;
+	text-align: center;
+	font-size:260%;
+}
+#login{
+	background-image:url("images/back.jpg");
+}
+#tosubmit {
+	text-align:center;
+	color: black;
+	font-size:100%;
+}
+#tops{
+	color: white;
+}
+#logo{
+ border: 1px solid #ddd;
+    border-radius: 100px;
+	height: 100px;
+    width: 200px;
+    position: center;
+    padding: 500px;
+	max-width: 100%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
