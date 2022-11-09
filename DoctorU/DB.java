@@ -9,11 +9,7 @@ public class DB {
 	private Connection con = null;
 
 	/* Database connection settings */
-	private final String dbServerAddress = "195.251.249.131";
-	private final String dbServerPort = "3306";
-	private final String dbName = "ismgroup52";
-	private final String dbusername = "ismgroup52";
-	private final String dbpassword = "zscxwh";
+
 
 	/**
 	 * Default Constructor
